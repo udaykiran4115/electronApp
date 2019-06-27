@@ -1,0 +1,39 @@
+{
+  "name": "loginapp",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^5.0.0",
+    "electron-rebuild": "^1.8.5"
+  },
+  "author": "Vedapriya",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.2",
+    "child_process": "^1.0.2",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.3",
+    "dragula": "^3.7.2",
+    "ejs": "^2.5.7",
+    "electron-tabs": "^0.9.5",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "fullname": "^4.0.0",
+    "mongoose": "^5.0.7",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.15.1",
+    "os": "^0.1.1",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "passport-warwick-sso-oauth": "0.0.5",
+    "passport-windowsauth": "^3.0.1",
+    "path": "^0.12.7",
+    "username": "^5.1.0"
+  },
+  "description": ""
+}
